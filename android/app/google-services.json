@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48607984484",
+    "project_id": "smart-applications-da7db",
+    "storage_bucket": "smart-applications-da7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48607984484:android:962425950a53c0b6a21871",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfkER_hasTqiX4iDe6YzejWcFUp-SzcLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
